@@ -1,0 +1,28 @@
+Field,Weight
+Single,0.5
+Married,0.7
+Others,0.3
+No. of Dependents,
+0,1
+1,0.9
+2,0.8
+3,0.7
+4,0.6
+5,0.5
+6,0.4
+7,0.3
+8,0.2
+9,0.1
+Own House,1
+Rented Apartment,0.8
+MSc and Above,1
+"BSc, HND and Other Equivalent",0.9
+Diploma,0.8
+School Cert,0.7
+Employed,1
+Self Employed,0.9
+Unemployed,0.3
+Oil and Gas,1
+Banking and Finance,0.9
+Manufacturing and Construction,0.8
+Wholesale and Retail Trade,0.7
